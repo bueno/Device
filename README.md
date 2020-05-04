@@ -229,6 +229,9 @@ Lucas Ortis:
 - [@LucasEkhoo](https://twitter.com/LucasEkhoo)
 - [Linkedin](https://fr.linkedin.com/in/lucasortis)
 
+# References
+- https://ios-resolution.com/
+
 # License
 
 Device is available under the MIT license. See the LICENSE file for more info.
